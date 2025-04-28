@@ -24,7 +24,7 @@ The project is designed to provide insights into sales performance, customer eng
     - KPIs tracking Year-over-Year customer behavior
     - Bar-in-bar visual showing YoY Order Comparison by Sub-Category
     - Diverging bar chart shows the positive and negative order differences across sub-categories to identify performance gaps.
-    - Visual comparing monthly order trends between the Current Year (CY) and Previous Year (PY) to track growth or decline patterns over time.
+    - Visual comparing monthly order trends between the Current Year and Previous Year to track growth or decline patterns over time.
 
 3. **Location Dashboard**
     - State-wise Sales, Profit & Quantity on interactive maps
